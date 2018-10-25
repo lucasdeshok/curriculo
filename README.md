@@ -77,13 +77,13 @@ Terra Roxa/SP
 
 
 * jan/2017 - atual - **Linx**
-> Atuo como analista de qualidade, com foco em testes unitários e automatizados e manutenção de scripts de testes automatizados.
+> Atuo como analista de qualidade, com foco em testes unitários e automatizados, criação e manutenção de scripts.
 
 * jan/2016 - dez/2016 - **Linx**
 > Atuei como analista de qualidade, com foco em automatização de testes com autoit.
 
 * jul/2015 - dez/2015 - **Linx**
-> Atuei como analista de qualidade, responsável por realizar testes unitários, elaborar casos de teste.
+> Atuei como analista de qualidade, responsável por realizar testes unitários, elaboração de casos de teste.
 
 * jul/2013 - jul/2015 - **BIG Sistemas/Linx**
 > Atuei como analista de suporte nível 2, responsável por realizare atendimento de clientes estratégicos, atendimento ao suporte técnico nível 1, registro de bugs e melhorias, manutenção em servidores mysql.
