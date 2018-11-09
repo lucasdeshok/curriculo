@@ -43,6 +43,7 @@ Terra Roxa/SP
 
 
 **Outros:**
+* Automação em Teste de Software *(Autoit)*
 * Sistema de Controle de versão *(git)*
 * Conhecimento em Design e Arquitetura de Software
 * Scrum
