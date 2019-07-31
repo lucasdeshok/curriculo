@@ -19,7 +19,7 @@ Terra Roxa/SP
 ## Competências
 
 **BackEnd:**
-* .NET
+* .NET (C#)
 * PHP
 * Programação Orientada à Objeto
 * Testes de software
@@ -45,14 +45,8 @@ Terra Roxa/SP
 **Outros:**
 * Automação em Teste de Software *(Autoit)*
 * Sistema de Controle de versão *(git)*
-* Conhecimento em Design e Arquitetura de Software
 * Scrum
 * Kanban
-
-
-**Experiências em outras linguagens:**
-* Criação de pequenos projetos utilizando C#, .NET e SQL Server
-* Criação de pequenos projetos com PHP e Mysql
 
 
 ---
@@ -61,7 +55,7 @@ Terra Roxa/SP
 ## Informações adicionais
 
 * Prezo pela escrita de código limpo.
-* Facilidade e interesse em estar sempre aprendendo e evoluíndo.
+* Interesse por aprendizado contínuo.
 * Compartilhar conhecimento.
 * Criatividade.
 * Determinação e responsabilidade.
