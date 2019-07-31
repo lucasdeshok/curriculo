@@ -101,11 +101,15 @@ Terra Roxa/SP
 ## Formação
 
 * **Pós-graduação** - Engenharia Web/Mobile (SENAC) - **[Andamento]**
-* **Graduação** - Sistemas de Informação pelo (UNIFAFIBE) - **[Completo]**
-* **Curso** - Git: Controle e compartilhe seu código
-* **Curso** - C# I: Fundamentos da linguagem
-* **Curso** - Redis I: Armazenando chaves e valores.
-* **Curso** - PHP e MySQL I: Fundamentos para criar um sistema na Web.
-* **Curso** - PHP e MySQL II: Cookies, sessões e mais recursos.
-* **Curso** - Laravel: facilitando o desenvolvimento PHP
-* **Curso** - Laravel II: Mais técnicas e webapps poderosas
+* **Graduação** - Sistemas de Informação pelo (UNIFAFIBE)
+* **Curso** - Git: Controle e compartilhe seu código (Alura)
+* **Curso** - C# I: Fundamentos da linguagem (Alura)
+* **Curso** - C# parte 1: Primeiros passos (Alura)
+* **Curso** - C# parte 2: Introdução à Orientação a Objetos (Alura)
+* **Curso** - C# parte 3: Entendendo herança e interface (Alura)
+* **Curso** - C# parte 4: Entendendo exceções (Alura) - **[Andamento]**
+* **Curso** - Redis I: Armazenando chaves e valores (Alura) 
+* **Curso** - PHP e MySQL I: Fundamentos para criar um sistema na Web (Alura)
+* **Curso** - PHP e MySQL II: Cookies, sessões e mais recursos (Alura)
+* **Curso** - Laravel: facilitando o desenvolvimento PHP (Alura)
+* **Curso** - Laravel II: Mais técnicas e webapps poderosas (Alura)
