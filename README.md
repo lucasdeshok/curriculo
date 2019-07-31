@@ -77,22 +77,33 @@ Terra Roxa/SP
 > Criação de uma aplicação desktop .NET e SQL Server para gestão de academia.
 
 
-* jan/2017 - atual - **Linx**
+
+* **jan/2017 - atual -** ****Linx****
 > Atuo como analista de qualidade, com foco em testes unitários e automatizados, criação e manutenção de scripts.
 
-* jan/2016 - dez/2016 - **Linx**
+
+
+* **jan/2016 - dez/2016 -** ****Linx****
 > Atuei como analista de qualidade, com foco em automatização de testes com autoit.
 
-* jul/2015 - dez/2015 - **Linx**
+
+
+* **jul/2015 - dez/2015 -** ****Linx****
 > Atuei como analista de qualidade, responsável por realizar testes unitários, elaboração de casos de teste.
 
-* jul/2013 - jul/2015 - **BIG Sistemas/Linx**
+
+
+* **jul/2013 - jul/2015 -** ****BIG Sistemas/Linx****
 > Atuei como analista de suporte nível 2, responsável por realizare atendimento de clientes estratégicos, atendimento ao suporte técnico nível 1, registro de bugs e melhorias, manutenção em servidores mysql.
 
-* mar/2012 - jun/2013 - **BIG Sistemas**
+
+
+* **mar/2012 - jun/2013 -** ****BIG Sistemas****
 > Atuei como suporte técnico ao usuário.
 
-* nov/2011 - fev/2012 – **Infocenter**
+
+
+* **nov/2011 - fev/2012 –** ****Infocenter****
 > Atuei no atendimento aos clientes e manutenção de computadores.
 
 
