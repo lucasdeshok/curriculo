@@ -105,16 +105,16 @@ Terra Roxa/SP
 
 ## Formação
 
-* **Pós-graduação** - Engenharia Web/Mobile (SENAC) **[em andamento, conclusão 2020]**
-* **Graduação** - Sistemas de Informação (UNIFAFIBE)
-* **Curso** - Git: Controle e compartilhe seu código (Alura)
-* **Curso** - C# I: Fundamentos da linguagem (Alura)
-* **Curso** - C# parte 1: Primeiros passos (Alura)
-* **Curso** - C# parte 2: Introdução à Orientação a Objetos (Alura)
-* **Curso** - C# parte 3: Entendendo herança e interface (Alura)
-* **Curso** - C# parte 4: Entendendo exceções (Alura) **[em andamento]**
-* **Curso** - Redis I: Armazenando chaves e valores (Alura) 
-* **Curso** - PHP e MySQL I: Fundamentos para criar um sistema na Web (Alura)
-* **Curso** - PHP e MySQL II: Cookies, sessões e mais recursos (Alura)
-* **Curso** - Laravel: facilitando o desenvolvimento PHP (Alura)
-* **Curso** - Laravel II: Mais técnicas e webapps poderosas (Alura)
+* **Pós-graduação** - Engenharia Web/Mobile **(SENAC)** ***[em andamento, conclusão 2020]***
+* **Graduação** - Sistemas de Informação **(UNIFAFIBE)**
+* **Curso** - Git: Controle e compartilhe seu código **(Alura)**
+* **Curso** - C# I: Fundamentos da linguagem **(Alura)**
+* **Curso** - C# parte 1: Primeiros passos **(Alura)**
+* **Curso** - C# parte 2: Introdução à Orientação a Objetos **(Alura)**
+* **Curso** - C# parte 3: Entendendo herança e interface **(Alura)**
+* **Curso** - C# parte 4: Entendendo exceções **(Alura)** ***[em andamento]***
+* **Curso** - Redis I: Armazenando chaves e valores **(Alura)**
+* **Curso** - PHP e MySQL I: Fundamentos para criar um sistema na Web **(Alura)**
+* **Curso** - PHP e MySQL II: Cookies, sessões e mais recursos **(Alura)**
+* **Curso** - Laravel: facilitando o desenvolvimento PHP **(Alura)**
+* **Curso** - Laravel II: Mais técnicas e webapps poderosas **(Alura)**
