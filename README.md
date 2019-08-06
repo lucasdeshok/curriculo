@@ -3,7 +3,7 @@ Terra Roxa/SP
 
 ---
 
-## QA Analyst
+## Analista de Qualidade
 
 **E-mail:** lucasdeshok@gmail.com
 
