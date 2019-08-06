@@ -105,7 +105,7 @@ Terra Roxa/SP
 
 ## Formação
 
-* **Pós-graduação** - Engenharia Web/Mobile **(SENAC)** ***[em andamento, conclusão 2020]***
+* **Pós-graduação** - Engenharia Web/Mobile **(SENAC)** ***[em andamento, conclusão previsto 2020]***
 * **Graduação** - Sistemas de Informação **(UNIFAFIBE)**
 * **Curso** - Git: Controle e compartilhe seu código **(Alura)**
 * **Curso** - C# I: Fundamentos da linguagem **(Alura)**
