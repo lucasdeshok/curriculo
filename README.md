@@ -7,7 +7,7 @@ Terra Roxa/SP
 
 **E-mail:** lucasdeshok@gmail.com
 
-**Linkedin:** [https://www.linkedin.com/lucas-alves](https://www.linkedin.com/in/lucas-alves-4a704b85/)
+**LinkedIn:** [https://www.linkedin.com/lucas-alves](https://www.linkedin.com/in/lucas-alves-4a704b85/)
 
 **Github:** lucasdeshok
 
