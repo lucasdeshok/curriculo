@@ -26,8 +26,8 @@ Terra Roxa/SP
 
 
 **FrontEnd:**
-* Testes de software
 * HTML5/CSS3
+* Testes de software
 
 
 **Banco de Dados:**
@@ -54,11 +54,11 @@ Terra Roxa/SP
 
 ## Informações adicionais
 
-* Prezo pela escrita de código limpo.
-* Interesse por aprendizado contínuo.
+* Aprendizado contínuo.
 * Compartilhar conhecimento.
 * Criatividade.
 * Determinação e responsabilidade.
+* Escrita de código limpo.
 * Facilidade para trabalhar em grupo.
 
 ---
