@@ -52,17 +52,6 @@ Terra Roxa/SP
 ---
 
 
-## Informações adicionais
-
-* Aprendizado contínuo.
-* Compartilhar conhecimento.
-* Criatividade.
-* Determinação e responsabilidade.
-* Escrita de código limpo.
-* Facilidade para trabalhar em grupo.
-
----
-
 ## Experência Profissional
 
 * **Projetos Pessoais**
