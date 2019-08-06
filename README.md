@@ -21,7 +21,7 @@ Terra Roxa/SP
 **BackEnd:**
 * .NET (C#)
 * PHP
-* Programação Orientada à Objeto
+* Programação Orientada a Objetos
 * Testes de software
 
 
