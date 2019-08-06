@@ -9,7 +9,7 @@ Terra Roxa/SP
 
 **LinkedIn:** [https://www.linkedin.com/lucas-alves](https://www.linkedin.com/in/lucas-alves-4a704b85/)
 
-**Github:** lucasdeshok
+**GitHub:** [https://github.com/lucasdeshok](https://github.com/lucasdeshok)
 
 **Inglês:** Básico
 
