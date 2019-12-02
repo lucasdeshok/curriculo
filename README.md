@@ -3,7 +3,7 @@ Terra Roxa/SP
 
 ---
 
-## Analista de Qualidade
+## Analista de Qualidadew
 
 **E-mail:** lucasdeshok@gmail.com
 
@@ -53,6 +53,9 @@ Terra Roxa/SP
 
 
 ## Experência Profissional
+
+* **Projeto Social**
+> Ministamento do mini curso 'Armazenando Dados com Redis' para os alunos do curso técnico de Desenvolvimento de Sistemas na Etec de Bebedouro-SP.
 
 * **Projetos Pessoais**
 > Criação de uma aplicação desktop .NET (C#) e SQL Server para gestão de consultório odontológico.
