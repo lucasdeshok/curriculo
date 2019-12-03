@@ -65,7 +65,7 @@ Terra Roxa/SP
 
 
 * **jan/2017 - atual -** ****Linx****
-> Atuo como analista de qualidade pl, tendo como responsabilidade testes desktop, web e mobile e micro serviços.
+> Atuo como analista de qualidade pl, tendo como responsabilidade testes em softwares desktop, web, mobile e micro serviços.
 
 
 
