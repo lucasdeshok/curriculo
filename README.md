@@ -3,7 +3,7 @@ Terra Roxa/SP
 
 ---
 
-## Analista de Qualidadew
+## Analista de Qualidade
 
 **E-mail:** lucasdeshok@gmail.com
 
@@ -50,6 +50,7 @@ Terra Roxa/SP
 
 
 ---
+
 
 
 ## Experência Profissional
