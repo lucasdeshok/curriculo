@@ -52,7 +52,6 @@ Terra Roxa/SP
 ---
 
 
-
 ## Experência Profissional
 
 * **Projeto Social**
@@ -66,7 +65,7 @@ Terra Roxa/SP
 
 
 * **jan/2017 - atual -** ****Linx****
-> Atuo como analista de qualidade, testes manuais e automatizados com autoit, documentação com testlink.
+> Atuo como analista de qualidade pl, tendo como responsabilidade testes desktop, web e mobile e micro serviços.
 
 
 
