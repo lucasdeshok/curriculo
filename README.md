@@ -3,6 +3,10 @@ Terra Roxa/SP
 
 ---
 
+_"Estou procurando um lugar que necessite de muitas reformas e consertos, mas que tenha fundações sólidas. Estou disposto a demolir paredes, construir pontes e acender fogueiras. Tenho uma grande experiência, um monte de energia, um pouco dessa coisa de ‘visão’ e não tenho medo de começar do zero"._
+
+---
+
 ## Analista de Qualidade
 
 **E-mail:** lucasdeshok@gmail.com
@@ -65,7 +69,7 @@ Terra Roxa/SP
 
 
 * **jan/2017 - atual -** ****Linx****
-> Atuo como analista de qualidade pl, tendo como responsabilidade testes desktop, web e mobile e micro serviços.
+> Atuo como analista de qualidade pl, tendo como responsabilidade testes em softwares desktop, web, mobile e micro serviços.
 
 
 
