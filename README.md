@@ -46,7 +46,7 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 ## Experência Profissional
 
 * **Projeto Social**
-> Ministamento do mini curso 'Armazenando Dados com Redis' para os alunos do curso técnico de Desenvolvimento de Sistemas na Etec de Bebedouro-SP.
+> Lecionei um mini curso 'Armazenando Dados com Redis' para os alunos do curso técnico de Desenvolvimento de Sistemas na Etec de Bebedouro-SP.
 
 * **Projetos Pessoais**
 > Criação de uma aplicação desktop .NET (C#) e SQL Server para gestão de consultório odontológico.
