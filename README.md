@@ -7,7 +7,7 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 
 ---
 
-## Analista de Qualidade
+## Analista de Qualidade | Automação de Testes at Linx
 
 **E-mail:** lucasdeshok@gmail.com
 
@@ -15,7 +15,7 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 
 **GitHub:** [https://github.com/lucasdeshok](https://github.com/lucasdeshok)
 
-**Inglês:** Básico
+**Inglês:** Intermediário
 
 
 ---
@@ -24,15 +24,8 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 
 **BackEnd:**
 * .NET (C#)
-* PHP
 * Programação Orientada a Objetos
 * Testes de software
-
-
-**FrontEnd:**
-* HTML5/CSS3
-* Testes de software
-
 
 **Banco de Dados:**
 * MySQL
@@ -41,16 +34,10 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 * MongoDB
 
 
-**Infra**
-* Apache
-* Docker
-
-
 **Outros:**
-* Automação em Teste de Software *(Autoit)*
+* Automação em testes (C#, nunit, mstest, autoit)
 * Sistema de Controle de versão *(git)*
-* Scrum
-* Kanban
+* Scrum, Kanban
 
 
 ---
@@ -69,7 +56,8 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 
 
 * **jan/2017 - atual -** ****Linx****
-> Atuo como analista de qualidade pl, tendo como responsabilidade testes em softwares desktop, web, mobile e micro serviços.
+> Atuo como líder e analista de qualidade pl, tendo como responsabilidade automatizar testes unitários e de integração.
+> Testes funcionais, caixa branca e caixa preta em aplicaçõe web, mobile, microservices e desktop.
 
 
 
