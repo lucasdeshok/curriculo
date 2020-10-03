@@ -96,7 +96,7 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 * **Curso** - C# parte 1: Primeiros passos **(Alura)**
 * **Curso** - C# parte 2: Introdução à Orientação a Objetos **(Alura)**
 * **Curso** - C# parte 3: Entendendo herança e interface **(Alura)**
-* **Curso** - C# parte 4: Entendendo exceções **(Alura)** ***[em andamento]***
+* **Curso** - C# parte 4: Entendendo exceções **(Alura)**
 * **Curso** - Redis I: Armazenando chaves e valores **(Alura)**
 * **Curso** - PHP e MySQL I: Fundamentos para criar um sistema na Web **(Alura)**
 * **Curso** - PHP e MySQL II: Cookies, sessões e mais recursos **(Alura)**
