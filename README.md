@@ -55,8 +55,8 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 
 
 
-* **jan/2017 - atual -** ****Linx****
-> Atuo como líder e analista de qualidade pl, tendo como responsabilidade automatizar testes unitários e de integração.
+* **jan/2017 - out/2020 -** ****Linx****
+> Atuo como líder e analista de qualidade, tendo como responsabilidade automatizar testes unitários e de integração.
 > Testes funcionais, caixa branca e caixa preta em aplicaçõe web, mobile, microservices e desktop.
 
 
