@@ -3,15 +3,22 @@ Terra Roxa/SP
 
 ---
 
-_"Estou procurando um lugar que necessite de muitas reformas e consertos, mas que tenha fundações sólidas. Estou disposto a demolir paredes, construir pontes e acender fogueiras. Tenho uma grande experiência, um monte de energia, um pouco dessa coisa de ‘visão’ e não tenho medo de começar do zero"._
+Profissional da área de qualidade de software.
+
+Pós-graduado em Engenharia de Software com foco em web e mobile.
+
+Com seis anos de experiência no mercado de qualidade de software.
+
+* Gosto de aprender, me dedico ao aprendizado dos mais variados assuntos, filosofia, psicologia, negócios.
+* Gosto de ensinar, já lecionei para alunos da escola técnica Etec de Bebedouro-SP.
 
 ---
 
-## Analista de Qualidade | Automação de Testes at Linx
+## Automação de Testes | Qualidade de Software
 
 **E-mail:** lucasdeshok@gmail.com
 
-**LinkedIn:** [https://www.linkedin.com/lucas-alves](https://www.linkedin.com/in/lucas-alves-silva/)
+**LinkedIn:** [https://www.linkedin.com/lucas-alves-silva](https://www.linkedin.com/in/lucas-alves-silva/)
 
 **GitHub:** [https://github.com/lucasdeshok](https://github.com/lucasdeshok)
 
@@ -23,20 +30,26 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 ## Competências
 
 **BackEnd:**
+* Python (Flask)
+* Java (Spring boot)
+* AWS (s3, rds, ecs, elasticache, sqs)
+* Kafka
+* Docker
 * .NET (C#)
 * Programação Orientada a Objetos
 * Testes de software
 
 **Banco de Dados:**
 * MySQL
+* PostgreSQL
 * SQL Server
 * Redis
 * MongoDB
 
 
 **Outros:**
-* Automação em testes (C#, nunit, mstest, autoit)
-* Sistema de Controle de versão *(git)*
+* Automação em testes (JUnit, Selenium, C#, nunit, mstest, autoit)
+* Sistema de Controle de versão *(git, github e gitlab)*
 * Scrum, Kanban
 
 
@@ -54,9 +67,15 @@ _"Estou procurando um lugar que necessite de muitas reformas e consertos, mas qu
 > Criação de uma aplicação desktop .NET (C#) e SQL Server para gestão de academia.
 
 
+* **out/2020 - o momento -** ****Linx****
+> Atuando como Especialista em Testes Sênior
+> Colaborando com a construção de novas aplicações e garantia da qualidade na rt icaas no Itaú.
+> Fazendo uso das tecnologias: aws(s3, rds, ecs, elasticache, sqs), docker, gitlab, java, junit e kafka.
+
+
 
 * **jan/2017 - out/2020 -** ****Linx****
-> Atuo como líder e analista de qualidade, tendo como responsabilidade automatizar testes unitários e de integração.
+> Atuei como analista de qualidade, tendo como responsabilidade automatizar testes unitários e de integração.
 > Testes funcionais, caixa branca e caixa preta em aplicaçõe web, mobile, microservices e desktop.
 
 
