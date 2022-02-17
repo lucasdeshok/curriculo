@@ -67,7 +67,7 @@ Com seis anos de experiência no mercado de qualidade de software.
 > Criação de uma aplicação desktop .NET (C#) e SQL Server para gestão de academia.
 
 
-* **out/2020 - o momento -** ****Linx****
+* **out/2020 - o momento -** ****NTT DATA****
 > Atuando como Especialista em Testes Sênior
 > Colaborando com a construção de novas aplicações e garantia da qualidade na rt icaas no Itaú.
 > Fazendo uso das tecnologias: aws(s3, rds, ecs, elasticache, sqs), docker, gitlab, java, junit e kafka.
