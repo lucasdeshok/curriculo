@@ -68,7 +68,7 @@ Com seis anos de experiência no mercado de qualidade de software.
 
 
 * **out/2020 - o momento -** ****NTT DATA****
-> Atuando como Especialista em Testes Sênior
+> Atuando como Especialista em Testes Sênior.
 > Colaborando com a construção de novas aplicações e garantia da qualidade na rt icaas no Itaú.
 > Fazendo uso das tecnologias: aws(s3, rds, ecs, elasticache, sqs), docker, gitlab, java, junit e kafka.
 
