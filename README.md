@@ -108,7 +108,7 @@ Com seis anos de experiência no mercado de qualidade de software.
 
 ## Formação
 
-* **Pós-graduação** - Engenharia Web/Mobile **(SENAC)** ***[em andamento, conclusão previsto 2020]***
+* **Pós-graduação** - Engenharia Web/Mobile **(SENAC)**
 * **Graduação** - Sistemas de Informação **(UNIFAFIBE)**
 * **Curso** - Git: Controle e compartilhe seu código **(Alura)**
 * **Curso** - C# I: Fundamentos da linguagem **(Alura)**
